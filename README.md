@@ -10,4 +10,5 @@ Projects included:
 - Team Faculty Research Database
 
 More information on these projects and others can be found in the READMEs of each project repository.
+
 Note: Some repositories are copied from private repos and may not be the original repo used for the project.  Some files may be excluded.
