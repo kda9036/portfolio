@@ -1,6 +1,6 @@
 # Portfolio
 
-PowerPoint featuring video demos of some of my projects.
+PowerPoint featuring video demos of some of my earlier projects.
 
 Projects included:
 - TFTP Client and Server Group Project
